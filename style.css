@@ -754,7 +754,7 @@ span {
         text-align: center;
     }
 }
-@media (max-width: 400px) {
+@media (max-width: 430px) {
     .home {
         justify-content: center;
     }
